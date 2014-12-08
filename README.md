@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IR Sensor Library
 
 ### IR Range Sensors for ECE382 Robot Number 003
